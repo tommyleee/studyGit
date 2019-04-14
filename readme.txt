@@ -12,3 +12,5 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick and simple.
 
 Fast forward model
+
+changed now
